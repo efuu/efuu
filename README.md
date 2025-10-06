@@ -1,4 +1,4 @@
-## "Give me six hours to build an app and I will spend the first four hours writing the prompt" -Abraham Lincoln
+"Give me six hours to vibe code agentic b2b saas and I will spend the first four hours writing the prompt" -Abraham Lincoln (YC W25)
 
 <!--
 **efuu/efuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
